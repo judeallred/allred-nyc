@@ -23,6 +23,7 @@
 	8. EDUCATION SECTION
 	9. COUNTER SECTION
 	10. FOOTER
+  11. BTNs
 
 ====================================================
 
@@ -116,12 +117,6 @@ header .info{ margin-bottom: 10px; }
 header .info .icon{ float: left; font-size: 30px; }
 
 header .info .right-area{ margin-left: 45px; }
-
-header .downlad-btn{ padding: 15px 30px; border-radius: 4px; float: right; margin-top: 30px;
-	box-shadow: inset 0 0px 4px rgba(0,0,0,.3); background: #FFAD01; color: #fff; 
-	-webkit-transition: all .2s ease; transition: all .2s ease; }
-
-header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: translateY(-4px); }
 
 
 /* ---------------------------------
@@ -260,3 +255,28 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
 
+
+/* ---------------------------------
+11. BTNs
+--------------------------------- */
+
+.btn-section{ padding-top: 100px; }
+
+.btn{ margin: 0 10px 10px; padding: 12px 30px; border-radius: 5px; }
+
+.btn-bg-yellow{ border: 1px solid #FFAD01; background: #FFAD01; color: #fff; }
+
+.btn-bg-purple{ border: 1px solid #28023D; background: #28023D; color: #fff; }
+
+.btn-border-purple{ border: 1px solid #28023D; color: #222; }
+
+.btn-color-yellow{ border: 1px solid #28023D; background: #28023D; color: #FFAD01; }
+
+
+.btn-bg-yellow:hover{ background: none; color: #111; }
+
+.btn-bg-purple:hover{ background: none; color: #111; }
+
+.btn-border-purple:hover{ background: #28023D; color: #fff; }
+
+.btn-color-yellow:hover{ background: none; color: #111; }
