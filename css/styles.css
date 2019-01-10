@@ -222,7 +222,8 @@ header .info .right-area{ margin-left: 45px; }
 --------------------------------- */
 
 .counter-section{ position: relative; padding: 100px 0 70px; background-size: cover; z-index: 1; 
-	background-image: url(../../images/slider-2-1920x600.jpg); color: #fff; }
+	background-image: url(https://cdn.glitch.com/b3384a4b-72a7-4d1e-9839-98acf912077a%2Fnathan-dumlao-714163-unsplash.jpg?1547093106819);
+  color: #fff; background-position: center;}
 
 .counter-section:after{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
