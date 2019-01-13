@@ -1,4 +1,4 @@
-// Update emoji title based on time of day:
+// Update favicon based on time of day:
 $(function(){
   const hours = (new Date).getHours();
   //🏙️🌆🌃🌇
@@ -19,7 +19,7 @@ $(function(){
     emoji = sunset;
   }
   
-  // :hat-tip: https://stackoverflow.com/questions/260857/changing-website-favicon-dynamically
+  // :tip-of-the-hat: https://stackoverflow.com/questions/260857/changing-website-favicon-dynamically
   var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
   link.type = 'image/x-icon';
   link.rel = 'shortcut icon';
