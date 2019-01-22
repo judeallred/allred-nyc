@@ -1,2 +1,4 @@
-# allred-nyc
-Repository for https://allred.nyc
+Allred.nyc
+==========
+
+This project provides hosting for the allred.nyc website.
