@@ -1,0 +1,6 @@
+Glitch DNS configuration:
+
+CNAME  @    l3p747dmuzf7opgj.shw.io.
+^^ disable this one if we want mail to work... which we do.
+
+CNAME  www  glnym2lwtkfgznre.shw.io.
