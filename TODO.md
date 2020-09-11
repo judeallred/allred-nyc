@@ -1,6 +1,0 @@
-- rename to allred.nyc
-- write 'about' section
-- move CV contents into Path section
-- link to resume
-- wire up jude@allred.nyc email address
-- keep it private? hmm, maybe.
