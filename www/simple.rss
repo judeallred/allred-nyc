@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Simple RSS Feed</title>
+  <link>https://www.allred.nyc</link>
+  <description>So that RSS services function as a keepalive for this glitch site.</description>
+  <item>
+    <title>Keepalive</title>
+    <link>https://www.allred.nyc</link>
+    <description>Check me, RSS readers of the world, and keep me alive.</description>
+  </item>
+</channel>
+
+</rss> 
