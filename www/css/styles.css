@@ -124,7 +124,7 @@ header .info .right-area{ margin-left: 45px; }
 --------------------------------- */
 
 .intro-section{ padding-top: 200px; padding-bottom: 30px; position: relative; background-size: cover; 
-	z-index: 1; background-position: left; background-image: url(https://cdn.glitch.com/b3384a4b-72a7-4d1e-9839-98acf912077a%2Fbeatrice-neagu-641736-unsplash.jpg?1547015124276); }
+	z-index: 1; background-position: left; background-image: url(/assets/beatrice-neagu-641736-unsplash.jpg?1547015124276); }
 
 .intro-section:before{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0; 
 	right: 0; background: rgba(0,0,0, .2); }
@@ -222,7 +222,7 @@ header .info .right-area{ margin-left: 45px; }
 --------------------------------- */
 
 .counter-section{ position: relative; padding: 100px 0 70px; background-size: cover; z-index: 1; 
-	background-image: url(https://cdn.glitch.com/b3384a4b-72a7-4d1e-9839-98acf912077a%2Fcoffee-cropped.jpg?1547248851587);
+	background-image: url(/assets/coffee-cropped.jpg?1547248851587);
   color: #fff; background-position: center;
   text-shadow: 2px 2px 2px black;
 }
