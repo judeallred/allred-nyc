@@ -268,3 +268,12 @@ header .info .right-area{ margin-left: 45px; }
 .btn-border-purple:hover{ background: #28023D; color: #fff; }
 
 .btn-color-yellow:hover{ background: none; color: #111; }
+
+/* ----------------------------------------------
+12. Custom stuff
+-----------------------------------------------*/
+
+.glitch-embed-wrap {
+	border: 4px solid black;
+	border-radius: 4px;
+}
